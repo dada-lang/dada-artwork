@@ -4,7 +4,7 @@
 
 <a href="https://raw.githubusercontent.com/dada-lang/dada-artwork/main/dada.svg"><img src="dada.svg" width="300" alt="Tzara"></img></a>
 
-Tzara (they/them) likes late-night coding sessions and code that is joyful, efficient, and reliable. They're also pretty into purple.
+**Tzara (they/them)** likes late-night coding sessions and code that is joyful, efficient, and reliable. They're also pretty into purple.
 
 ## Tzara likes to wear green
 
