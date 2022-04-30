@@ -14,7 +14,7 @@ Sometimes Tzara likes to wear green.
 
 ## Alternate logo: Funky words
 
-<a href="https://raw.githubusercontent.com/dada-lang/dada-artwork/main/dada-acid-green.svg"><img src="dada-letters.svg" width="300" alt="Word-based logo"></img></a>
+<a href="https://raw.githubusercontent.com/dada-lang/dada-artwork/main/dada-letters.svg"><img src="dada-letters.svg" width="300" alt="Word-based logo"></img></a>
 
 This alternate logo is appropriate if you want to look fancy. That's Tzara blinking out from the corner there (without their monocle).
 
