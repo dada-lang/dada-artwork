@@ -4,13 +4,13 @@
 
 <a href="https://raw.githubusercontent.com/dada-lang/dada-artwork/main/dada.svg"><img src="dada.svg" width="300" alt="Tzara"></img></a>
 
-Tzara's pronoun is they.
+Tzara (they/them) likes late-night coding sessions and code that is joyful, efficient, and reliable. They're also pretty into purple.
 
 ## Tzara likes to wear green
 
 <a href="https://raw.githubusercontent.com/dada-lang/dada-artwork/main/dada-acid-green.svg"><img src="dada-acid-green.svg" width="300" alt="Tzara in 'acid green'"></img></a>
 
-Sometimes Tzara likes to wear Green.
+Sometimes Tzara likes to wear green.
 
 ## Alternate logo: Funky words
 
