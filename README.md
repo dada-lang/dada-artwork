@@ -6,6 +6,8 @@ Dada logo and other artwork:
 
 ![Tzara in purple](./dada.svg)
 
+<img src="dada.svg" width=200" />
+
 As with rust-lang's [Ferris](https://rustacean.net/), Tzara's pronouns are "any": he/she/they/xir/it, it's all good. Tzara just likes to be talked about.
 
 ## Tzara likes to wear green
