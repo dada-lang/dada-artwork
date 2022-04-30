@@ -18,7 +18,7 @@ Sometimes Tzara likes to wear Green.
 
 ![Word logo](./dada-letters.svg)
 
-This alternate logo is appropriate if you want to look fancy. That's Tzara blinking out from the corner there!
+This alternate logo is appropriate if you want to look fancy. That's Tzara blinking out from the corner there (without their monocle).
 
 ## Licensing
 
