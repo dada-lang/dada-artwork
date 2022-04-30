@@ -4,7 +4,7 @@
 
 <a href="https://raw.githubusercontent.com/dada-lang/dada-artwork/main/dada.svg"><img src="dada.svg" width="300" alt="Tzara"></img></a>
 
-As with rust-lang's [Ferris](https://rustacean.net/), Tzara's pronouns are "any": he/she/they/xir/it, it's all good. Tzara just likes to be talked about.
+Tzara's pronoun is they.
 
 ## Tzara likes to wear green
 
