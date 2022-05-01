@@ -20,6 +20,8 @@ This alternate logo is appropriate if you want to look fancy. That's Tzara blink
 
 ## Origins etc
 
+Tzara and the "funky words" logo was designed by [Kristen H. Cox at Hudson Collaborative](https://kristenhcox.com/).
+
 The name Tzara is in homage to the author of the Dada manifesto, [Tristan Tzara](https://en.wikipedia.org/wiki/Tristan_Tzara).
 
 The logo is meant to look similar to Duchamp's famous ["Bicycle Wheel" readymade](https://en.wikipedia.org/wiki/Bicycle_Wheel). Tzara's monocle is an homage to Rust's wonderful [bicycle gear logo](https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg), as well.
